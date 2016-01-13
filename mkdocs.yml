@@ -1,0 +1,4 @@
+site_name: pharmassist-drf
+site_description: My fourth year project that aims to build a system that will connect patients to pharmacies near them and give them information on recommended price of the drug and check authenticity of the drug .
+repo_url: https://github.com/vivianakinyi/pharmassist-drf
+site_dir: html
